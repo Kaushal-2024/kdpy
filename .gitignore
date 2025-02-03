@@ -1,0 +1,36 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+*.DS_Store
+
+# Virtual environment
+env/
+venv/
+.env/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Logs and local environment files
+logs/
+*.log
+
+# pytest cache
+.cache/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.iml
+
+# Coverage reports
+htmlcov/
+.coverage
